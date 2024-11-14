@@ -4,3 +4,4 @@
 - 2-auth-database: 【2】认证篇之使用数据库存储用户
 - 3-auth-form: 【3】认证篇之表单登录的自定义配置
 - 4-auth-logout: 【4】认证篇之注销登录
+- 5-auth-password-encoder: 【5】认证篇之密码编码器
